@@ -1,0 +1,12 @@
+calculate runoff in a rainfall 
+
+get dimensions of roof in feet
+read roof dimensions
+multiply dimensions of the roof by 12 to get inches
+multiply roof dimensions by number of inches of rainfall
+divide the result by 231 inches to get gallons
+ 
+
+
+
+

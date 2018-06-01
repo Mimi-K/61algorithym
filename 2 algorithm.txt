@@ -1,0 +1,6 @@
+set number to 0
+number = N1
+number2 = N2
+Number3 = N3
+add number N1 + N2 + N3
+print total

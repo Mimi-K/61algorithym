@@ -1,0 +1,8 @@
+initialize number to 0
+read number
+Is the number greater than or equal to 3
+If yes
+then 
+print total
+otherwise
+redo return to the first statement and continue

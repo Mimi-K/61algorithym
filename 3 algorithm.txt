@@ -1,0 +1,7 @@
+Set student_records to zero
+    Read student_records
+	DOWHILE student_records < 10
+	add sum of scores
+	Calculate AVG_score = Sum of scores/number of scores
+    Print 10 AVG score
+ENDDO

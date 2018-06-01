@@ -1,0 +1,4 @@
+Prompt user for bangs
+Get bangs
+Calculate total bangs = bangs + 5 *2 -7
+Display bangs
